@@ -37,6 +37,12 @@ const songs = [
         cover: "./src/assets/images/img6.jfif",
         artist: "Phonky Town",
     },
+    {
+        path: "./src/assets/music/bxkq - TE CONOCÍ.mp3",
+        displayName: "TE CONOCÍ", 
+        cover: "./src/assets/images/img2.jfif",
+        artist: "bxkq",
+    },
 ];
 
 let musicIndex = 0;
