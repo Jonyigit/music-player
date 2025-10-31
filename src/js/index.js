@@ -16,13 +16,13 @@ const songs = [
     {
         path: "./src/assets/music/repsaj - MONTAGEM CONTIGO (Super Slowed).mp3",
         displayName: "Montagem Contigo",
-        cover: "./src/assets/images/img5.jfif",
+        cover: "./src/assets/images/img2.jfif",
         artist: "repsaj",
     },
     {
         path: "./src/assets/music/LUMIX   KXRSED - MONTAGEM NOCHE (Official Audio).mp3",
         displayName: "Montagem Noche (Official Audio)",
-        cover: "./src/assets/images/img3.jfif",
+        cover: "./src/assets/images/img7.jfif",
         artist: "Lumix Rxrsed",
     },
     {
@@ -39,9 +39,15 @@ const songs = [
     },
     {
         path: "./src/assets/music/bxkq - TE CONOCÍ.mp3",
-        displayName: "TE CONOCÍ", 
-        cover: "./src/assets/images/img2.jfif",
+        displayName: "TE CONOCÍ",
+        cover: "./src/assets/images/img1.jfif",
         artist: "bxkq",
+    },
+    {
+        path: "./src/assets/music/AN_Lyrics_Cinnamon_Girl_X_Cinnamon_Girl_Slowed_Reverb_Tikto.mp3",
+        displayName: "Cinnamon girl",
+        cover: "./src/assets/images/img8.jfif",
+        artist: "Lana del rey",
     },
 ];
 
